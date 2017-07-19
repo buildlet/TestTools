@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUILDLet.TestTools.ConsoleApplication.Exit999", "BUILDLet.TestTools.ConsoleApplication.Exit999\BUILDLet.TestTools.ConsoleApplication.Exit999.csproj", "{E4FBF1C9-1FEF-4F25-9168-7819FCF662A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUILDLet.TestTools.ConsoleApplication.Randum300", "BUILDLet.TestTools.ConsoleApplication.Randum300\BUILDLet.TestTools.ConsoleApplication.Randum300.csproj", "{5BC4DF28-4AAC-4D92-AC5A-92F2C3D1C4F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUILDLet.TestTools.ConsoleApplication.StandardError300", "BUILDLet.TestTools.ConsoleApplication.StandardError300\BUILDLet.TestTools.ConsoleApplication.StandardError300.csproj", "{4663201F-C1EB-41EC-A059-74FB78768324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUILDLet.TestTools.ConsoleApplication.StandardOutput300", "BUILDLet.TestTools.ConsoleApplication.StandardOutput300\BUILDLet.TestTools.ConsoleApplication.StandardOutput300.csproj", "{65331C87-6B19-4E66-A0B1-F8CAC98B0011}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Properties", "Properties", "{ED1CFE57-4C50-4C72-8019-359458669B61}"
+	ProjectSection(SolutionItems) = preProject
+		Properties\AssemblyVersionInfo.cs = Properties\AssemblyVersionInfo.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4FBF1C9-1FEF-4F25-9168-7819FCF662A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4FBF1C9-1FEF-4F25-9168-7819FCF662A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4FBF1C9-1FEF-4F25-9168-7819FCF662A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4FBF1C9-1FEF-4F25-9168-7819FCF662A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC4DF28-4AAC-4D92-AC5A-92F2C3D1C4F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC4DF28-4AAC-4D92-AC5A-92F2C3D1C4F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC4DF28-4AAC-4D92-AC5A-92F2C3D1C4F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC4DF28-4AAC-4D92-AC5A-92F2C3D1C4F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4663201F-C1EB-41EC-A059-74FB78768324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4663201F-C1EB-41EC-A059-74FB78768324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4663201F-C1EB-41EC-A059-74FB78768324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4663201F-C1EB-41EC-A059-74FB78768324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65331C87-6B19-4E66-A0B1-F8CAC98B0011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65331C87-6B19-4E66-A0B1-F8CAC98B0011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65331C87-6B19-4E66-A0B1-F8CAC98B0011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65331C87-6B19-4E66-A0B1-F8CAC98B0011}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dsakam.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BUILDLet.TestTools.ConsoleApplication.Exit999\\BUILDLet.TestTools.ConsoleApplication.Exit999.csproj
+		SccProjectName1 = BUILDLet.TestTools.ConsoleApplication.Exit999
+		SccLocalPath1 = BUILDLet.TestTools.ConsoleApplication.Exit999
+		SccProjectUniqueName2 = BUILDLet.TestTools.ConsoleApplication.Randum300\\BUILDLet.TestTools.ConsoleApplication.Randum300.csproj
+		SccProjectName2 = BUILDLet.TestTools.ConsoleApplication.Randum300
+		SccLocalPath2 = BUILDLet.TestTools.ConsoleApplication.Randum300
+		SccProjectUniqueName3 = BUILDLet.TestTools.ConsoleApplication.StandardError300\\BUILDLet.TestTools.ConsoleApplication.StandardError300.csproj
+		SccProjectName3 = BUILDLet.TestTools.ConsoleApplication.StandardError300
+		SccLocalPath3 = BUILDLet.TestTools.ConsoleApplication.StandardError300
+		SccProjectUniqueName4 = BUILDLet.TestTools.ConsoleApplication.StandardOutput300\\BUILDLet.TestTools.ConsoleApplication.StandardOutput300.csproj
+		SccProjectName4 = BUILDLet.TestTools.ConsoleApplication.StandardOutput300
+		SccLocalPath4 = BUILDLet.TestTools.ConsoleApplication.StandardOutput300
+	EndGlobalSection
+EndGlobal
